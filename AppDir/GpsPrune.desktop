@@ -1,0 +1,13 @@
+[Desktop Entry]
+Name=GpsPrune
+Comment=GpsPrune is an application for viewing, editing and converting coordinate data from GPS systems.
+Exec=AppRun
+Icon=gpsprune
+Terminal=false
+X-MultipleArgs=false
+Type=Application
+Categories=Utility;Science;
+StartupWMClass=GpsPrune
+StartupNotify=true
+
+
